@@ -1,0 +1,30 @@
+[info]
+author = ISCD
+icon = .b4w_icon.png
+name = orange
+title = Orange
+
+[paths]
+assets_dirs = projects/orange/assets;
+blend_dirs = projects/orange/blender;
+blender_exec = /home/norgeot/Downloads/blender-2.79-linux-glibc219-x86_64/blender
+build_dir = projects/orange/build
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = copy
+ignore = 
+js_ignore = 
+optimization = simple
+use_physics = False
+
+[deploy]
+assets_path_dest = assets
+assets_path_prefix = assets
+ignore = 
+override = 
+
+[url_params]
+
